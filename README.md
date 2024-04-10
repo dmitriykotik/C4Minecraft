@@ -2,7 +2,7 @@
 Модель бомбы из Counter-Strike в Minecraft. Модель сделана в BlockBench и экспортирована в JSON файл с текстурами .png.
 
 # Download
-В разделе релизов есть архив, скачайте его и распакуйте. В архиве находится файл модели c4.json и текстуры от 0.png до 14.png
+В разделе [релизов](https://github.com/dmitriykotik/C4Minecraft/releases), в этом репозитории, есть архив, скачайте его и распакуйте. В архиве находится файл модели c4.json и текстуры от 0.png до 14.png
 
 # Preview
 ![IMG](https://raw.githubusercontent.com/dmitriykotik/C4Minecraft/main/IMG_20240410_094241_961.jpg)
